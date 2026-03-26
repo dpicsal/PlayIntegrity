@@ -1,8 +1,11 @@
 # Changelog
 
-## v34.0
-- Initial release by Panda
-- Free universal fix for Play Integrity & SafetyNet on Android 10-16
-- Supports Magisk, KernelSU, and APatch
-- Auto Pixel Beta fingerprint via Action button
-- Telegram: https://t.me/cpanda_app
+## v36.0
+- Auto TrickyStore target list configuration
+- Random keybox selection at install
+- Boot hash (vbmeta digest) preservation
+- TWRP folder auto-cleanup
+- HMA data cleanup
+- Extended Magisk DenyList support
+- Security patch auto-sync with TrickyStore
+- Based on latest Play Integrity Fix engine
