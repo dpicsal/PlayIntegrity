@@ -1,3 +1,8 @@
+## v39.0
+
+- Bug fixes and improvements
+- Updated security patches
+
 ## v38.9
 
 - Bug fixes and improvements
