@@ -1,3 +1,8 @@
+## v37.3
+
+- Fixed keybox detection (no longer crashes if no keybox bundled)
+- Improved module compatibility
+
 ## v37.2
 
 - Updated from upstream v10.0.17
