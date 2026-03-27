@@ -1,3 +1,8 @@
+## v39.4
+
+- Bug fixes and improvements
+- Updated security patches
+
 ## v39.3
 
 Force update release
