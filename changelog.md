@@ -1,3 +1,8 @@
+## v36.8
+
+- Updated from upstream v36.0
+- Rebranded by Panda AppStore Bot
+
 ## v36.7
 
 - Updated from upstream v10.0.17
