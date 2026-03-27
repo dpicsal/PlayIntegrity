@@ -1,3 +1,8 @@
+## v38.1
+
+- Bug fixes and improvements
+- Updated security patches
+
 ## v38.0
 
 - Added new keybox (1 total)
