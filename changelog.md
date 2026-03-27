@@ -1,3 +1,8 @@
+## v38.9
+
+- Bug fixes and improvements
+- Updated security patches
+
 ## v38.8
 
 Force update release
