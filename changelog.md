@@ -1,3 +1,8 @@
+## v38.2
+
+- Bug fixes and improvements
+- Updated security patches
+
 ## v38.1
 
 - Bug fixes and improvements
