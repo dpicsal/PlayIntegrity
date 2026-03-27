@@ -1,3 +1,8 @@
+## v38.0
+
+- Added new keybox (1 total)
+- Bug fixes and improvements
+
 ## v37.9
 
 - Bug fixes and improvements
