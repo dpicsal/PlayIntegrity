@@ -1,3 +1,8 @@
+## v40.3
+
+- Bug fixes and improvements
+- Updated security patches
+
 ## v40.2
 
 - Bug fixes and improvements
